@@ -1,1 +1,1 @@
-**Cyber Range Team Capstone Project Summary - Sprint 3 (Team B)**
+# Cyber Range Team Capstone Project Summary - Sprint 3 (Team B)
