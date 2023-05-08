@@ -66,6 +66,10 @@ Identity and access management (IAM) refers to the processes and technologies us
 - [Jira Schedule 1](https://cybersecurityrangeenv.atlassian.net/jira/software/projects/CTRE/boards/1)
 - [Jira Schedule 2](https://cybersecurityrangeenv.atlassian.net/jira/software/projects/CTRE/boards/1/backlog)
 
+## Research Questions
+
+[Research](https://docs.google.com/document/d/1nwt-gR4p54zBJiEdsXLcyviLkwR1e_oZvAK6U_h1xE0/edit)
+
 ## Q&A
 
 [Questions](https://docs.google.com/document/d/1nwt-gR4p54zBJiEdsXLcyviLkwR1e_oZvAK6U_h1xE0/edit) 
