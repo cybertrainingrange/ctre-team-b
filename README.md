@@ -15,7 +15,7 @@ This summary outlines how Amazon Web Services (AWS) can be utilized to learn abo
 [Software_Documentation/Powerpoint](xxxx)
 
 ## Agile Framework
-- [Jira Schedule][Jira ](https://user-images.githubusercontent.com/123824782/236962973-734721cc-a14a-44c3-a1ab-a427ffe5111b.png)
+[Jira ](https://user-images.githubusercontent.com/123824782/236962973-734721cc-a14a-44c3-a1ab-a427ffe5111b.png)
 
 ## Research Questions
 
