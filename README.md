@@ -2,8 +2,7 @@
 
 ![networked-system-computer](https://user-images.githubusercontent.com/123824782/236960235-a0a9f0f4-db58-421d-a345-ba7868f69a31.jpg)
 
-Cybersecurity is a crucial aspect of any organization that deals with sensitive information or data. With the growing reliance on technology and the internet, organizations are vulnerable to cyber attacks that can result in financial losses, reputation damage, and legal liabilities. In this paper, we will discuss cybersecurity defense strategies that organizations can adopt to protect their systems and data.
- 
+This summary outlines how Amazon Web Services (AWS) can be utilized to learn about Linux and networking for Cybersecurity. AWS offers a broad range of services, tools, and resources that can be leveraged to gain practical knowledge and experience in various Cybersecurity-related areas.
 
 
 
