@@ -30,6 +30,7 @@ This summary outlines how Amazon Web Services (AWS) can be utilized to learn abo
 [IDS/IPS Spluk](https://www.youtube.com/watch?v=-SXjJi8BPT4)
 
 [AWS Secuirty Firewall pfSense](https://youtu.be/vAXYUgsXCHg)
+
 [AWS Kali Linux](https://m.youtube.com/watch?v=QWQ-LQL1owE&feature=youtu.be)
 
 
