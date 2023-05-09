@@ -25,7 +25,9 @@ This summary outlines how Amazon Web Services (AWS) can be utilized to learn abo
 
 [Questions](https://docs.google.com/document/d/1nwt-gR4p54zBJiEdsXLcyviLkwR1e_oZvAK6U_h1xE0/edit) 
 
+## Youtube Resources 
 
+[IDS/IPS Spluk](https://www.youtube.com/watch?v=-SXjJi8BPT4)
 
 
 
