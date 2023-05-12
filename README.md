@@ -8,7 +8,7 @@ This summary outlines how Amazon Web Services (AWS) can be utilized to learn abo
 
 ## Technical Documentation
 
-[Step by step documentation](xxxx)
+[Step by step documentation](https://docs.google.com/document/d/12MrB4sbUnF1ZJhR_CbEm4uQhG_kIhjHG_TyX9EsS8Xg/edit)
 
 ## Presentation
 
