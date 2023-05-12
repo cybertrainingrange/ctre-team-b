@@ -12,7 +12,7 @@ This summary ......
 
 ## Presentation
 
-[Software_Documentation/Powerpoint](xxxx)
+[Software_Documentation/Powerpoint](https://docs.google.com/presentation/d/1wntWs1sbiuQuvBl6AmWzdMmvk5r86Ie3/edit#slide=id.p1)
 
 
 ## Agile Framework
