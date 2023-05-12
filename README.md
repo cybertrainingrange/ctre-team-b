@@ -20,7 +20,9 @@ This summary outlines how Amazon Web Services (AWS) can be utilized to learn abo
 
 ## Cost Analysis
 [New Cost and Usage](xxx) 
+
 [AWS ESTIMATED BILL SUMMARY](xxx) 
+
 [CHARGES BY SERVICE](xxx) 
 
 
