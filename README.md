@@ -19,11 +19,11 @@ This summary ......
 [Jira ](https://user-images.githubusercontent.com/123824782/236962973-734721cc-a14a-44c3-a1ab-a427ffe5111b.png)
 
 ## Cost Analysis
-[New Cost and Usage](xxx) 
+[New cost and usage](xxx) 
 
-[AWS ESTIMATED BILL SUMMARY](xxx) 
+[AWS estimated bill summary](xxx) 
 
-[CHARGES BY SERVICE](xxx) 
+[Charges by service](xxx) 
 
 
 ## Research Questions
