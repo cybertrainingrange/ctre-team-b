@@ -100,4 +100,5 @@ In conclusion, cyber security is a critical aspect of managing and maintaining c
 - Tyesha [@tyesha](https://www.github.com/)
 - Victor [@vick627](https://github.com/orgs/cybertrainingrange/people/vick627)
 - Volha [@voliatalatynik](https://github.com/orgs/cybertrainingrange/people/voliatalatynik)
+- Mina 
 
